@@ -3,7 +3,7 @@
 Para cargar en R estas funciones en R debes correr el siguiente comando en tu chunk de R en Rstudio o en la consola, tu archivo de quarto o Rscript:
 
 ```{r}
-source("https://raw.githubusercontent.com/OscarVDelatorreTorres/yahooFinance/main/datosMultiplesYahooFinance.R")
+source("https://raw.githubusercontent.com/Diegoo777/yahooFinance/main/datosMultiplesYahooFinance.R")
 ```
 Con esto, cargarás las funciones en tu ambiente de trabajo, junto con las funciones de apoyo para manipulación de fechas, así como la extracción individual de un solo RIC o identificador de Yahoo.
 
